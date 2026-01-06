@@ -1,4 +1,5 @@
 .trunk/
+.git
 
 # Environment files
 .env
